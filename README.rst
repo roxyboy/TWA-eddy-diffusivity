@@ -1,5 +1,7 @@
 TWA eddy diffusivity
 ====================
+.. image:: https://zenodo.org/badge/509467925.svg
+   :target: https://zenodo.org/badge/latestdoi/509467925
 
 A repository for Jupyter notebooks analyzing the thickness-weighted averaged (TWA) eddy diffusivity tensor using 24 ensemble members of the North Atlantic with micro initial conditions.
 
